@@ -10,5 +10,5 @@ p7 output link : https://github.com/harshithakotian55-sketch/harshithakotian/blo
 p8 output link : https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/p8.png  
 p9 output link : https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/p9.png  
 p10 output link : https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/p10.png  
-stringhandlingdemo output link :https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/stringhandlingdemo1.png  
+stringhandlingdemo output link :https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/stringhandlingdemo1.png  and 
 https://github.com/harshithakotian55-sketch/harshithakotian/blob/main/stringhandlingdemo2.png  
