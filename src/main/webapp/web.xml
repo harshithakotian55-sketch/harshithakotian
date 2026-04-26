@@ -1,0 +1,43 @@
+<web-app>
+
+<servlet>
+    <servlet-name>AddFee</servlet-name>
+    <servlet-class>com.servlet.AddFeePaymentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>AddFee</servlet-name>
+    <url-pattern>/add</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>Display</servlet-name>
+    <servlet-class>com.servlet.DisplayFeePaymentsServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>Display</servlet-name>
+    <url-pattern>/DisplayFeePaymentsServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>Delete</servlet-name>
+    <servlet-class>com.servlet.DeleteFeePaymentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>Delete</servlet-name>
+    <url-pattern>/delete</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>Update</servlet-name>
+    <servlet-class>com.servlet.UpdateFeePaymentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>Update</servlet-name>
+    <url-pattern>/update</url-pattern>
+</servlet-mapping>
+
+</web-app>
